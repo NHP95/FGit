@@ -1,4 +1,4 @@
 # FGit
-How To Use GIT ?
-I am Slave 1
-Feature 1 is under my control
+How To Use GIT ? \n
+I am Slave 1 \n
+Feature 1 is under my control 
